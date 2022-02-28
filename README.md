@@ -11,20 +11,24 @@ En este proyecto se utilizo:
 
 El proyecto esta compuesto por 3 modulos:
 - Splash screen
-- Lista de personajes
-- Perfil de personaje
 
 <div align="">
     <img src="/Screenshot_1.jpg" width="200px"</img> 
 </div>
 
+
+- Lista de personajes
 <div align="">
     <img src="/Screenshot_2.jpg" width="200px"</img> 
 </div>
 
+
+- Perfil de personaje
 <div align="">
     <img src="/Screenshot_3.jpg" width="200px"</img> 
 </div>
+
+
 
 
 
