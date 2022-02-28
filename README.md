@@ -14,16 +14,16 @@ El proyecto esta compuesto por 3 modulos:
 - Lista de personajes
 - Perfil de personaje
 
-<div align="center">
-    <img src="/Screenshot_1.jpg" width="400px"</img> 
+<div align="">
+    <img src="/Screenshot_1.jpg" width="200px"</img> 
 </div>
 
-<div align="center">
-    <img src="/Screenshot_2.jpg" width="400px"</img> 
+<div align="">
+    <img src="/Screenshot_2.jpg" width="200px"</img> 
 </div>
 
-<div align="center">
-    <img src="/Screenshot_3.jpg" width="400px"</img> 
+<div align="">
+    <img src="/Screenshot_3.jpg" width="200px"</img> 
 </div>
 
 
