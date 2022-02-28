@@ -14,4 +14,4 @@ El proyecto esta compuesto por 3 modulos:
 - Lista de personajes
 - Perfil de personaje
 
-NOTA: Al tener que usar el API de Marvel (No se pudo obtener el tocken en  https://superheroapi.com) la informacion mostrada en el perfil del personaje vario debido a la respuesta del endpoint.
+NOTA: Al tener que usar el API de Marvel (No fue posible obtener el token en  https://superheroapi.com) la información mostrada en el perfil del personaje vario debido a la respuesta del endpoint.
