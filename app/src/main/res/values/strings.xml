@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Coppel_Test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="character_img_str">Character image</string>
+    <string name="error_text_str">Ocurrion un problema, intente de nuevo.</string>
+    <string name="loading_text_str">Cargando elementos…</string>
+    <string name="info_text_str">No hay mas elementos que cargar</string>
+    <string name="info_tools_str">En esta prueba se utilizo:\n
+  \n- Retrofit
+  \n- Patron MVVM
+  \n- Dagger hilt
+  \n- Navigation components
+  \n- Coroutines
+  \n- Marvel API</string>
+    <string name="logo_splash">Logo splash</string>
+    <string name="loading_txt">Cargando...</string>
+</resources>

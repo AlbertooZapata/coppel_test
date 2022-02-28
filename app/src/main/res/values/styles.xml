@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.MaterialComponents" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextAppearance.Headline1" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">96sp</item>
+    </style>
+    <style name="TextAppearance.Headline2" parent="TextAppearance.MaterialComponents.Headline2">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">60sp</item>
+    </style>
+    <style name="TextAppearance.Headline3" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">48sp</item>
+    </style>
+    <style name="TextAppearance.Headline4" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+    <style name="TextAppearance.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="TextAppearance.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextAppearance.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextAppearance.Subtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Body1" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextAppearance.Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Button" parent="TextAppearance.MaterialComponents.Button">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="TextAppearance.OverLine" parent="TextAppearance.MaterialComponents.Overline">
+        <item name="fontFamily">@font/noto_sans</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+
+
+
+    <style name="TextAppearance.Headline1.Bold" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">96sp</item>
+    </style>
+    <style name="TextAppearance.Headline2.Bold" parent="TextAppearance.MaterialComponents.Headline2">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">60sp</item>
+    </style>
+    <style name="TextAppearance.Headline3.Bold" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">48sp</item>
+    </style>
+    <style name="TextAppearance.Headline4.Bold" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+    <style name="TextAppearance.Headline5.Bold" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="TextAppearance.Headline6.Bold" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextAppearance.Subtitle1.Bold" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextAppearance.Subtitle2.Bold" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Body1.Bold" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextAppearance.Body2.Bold" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Button.Bold" parent="TextAppearance.MaterialComponents.Button">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Caption.Bold" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="TextAppearance.OverLine.Bold" parent="TextAppearance.MaterialComponents.Overline">
+        <item name="fontFamily">@font/noto_sans_bold</item>
+        <item name="android:fontFamily">@font/noto_sans_bold</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+
+
+
+    <style name="TextAppearance.Headline1.Bold.Italic" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans</item>
+        <item name="android:textSize">96sp</item>
+    </style>
+    <style name="TextAppearance.Headline2.Bold.Italic" parent="TextAppearance.MaterialComponents.Headline2">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:textSize">60sp</item>
+    </style>
+    <style name="TextAppearance.Headline3.Bold.Italic" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:textSize">48sp</item>
+    </style>
+    <style name="TextAppearance.Headline4.Bold.Italic" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+    <style name="TextAppearance.Headline5.Bold.Italic" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="TextAppearance.Headline6.Bold.Italic" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextAppearance.Subtitle1.Bold.Italic" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextAppearance.Subtitle2.Bold.Italic" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Body1.Bold.Italic" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextAppearance.Body2.Bold.Italic" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Button.Bold.Italic" parent="TextAppearance.MaterialComponents.Button">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Caption.Bold.Italic" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="TextAppearance.OverLine.Bold.Italic" parent="TextAppearance.MaterialComponents.Overline">
+        <item name="fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_bold_italic</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+
+
+
+    <style name="TextAppearance.Headline1.Italic" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">96sp</item>
+    </style>
+    <style name="TextAppearance.Headline2.Italic" parent="TextAppearance.MaterialComponents.Headline2">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">60sp</item>
+    </style>
+    <style name="TextAppearance.Headline3.Italic" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">48sp</item>
+    </style>
+    <style name="TextAppearance.Headline4.Italic" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+    <style name="TextAppearance.Headline5.Italic" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="TextAppearance.Headline6.Italic" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextAppearance.Subtitle1.Italic" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextAppearance.Subtitle2.Italic" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Body1.Italic" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextAppearance.Body2.Italic" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Button.Italic" parent="TextAppearance.MaterialComponents.Button">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Caption.Italic" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="TextAppearance.OverLine.Italic" parent="TextAppearance.MaterialComponents.Overline">
+        <item name="fontFamily">@font/noto_sans_italic</item>
+        <item name="android:fontFamily">@font/noto_sans_italic</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+
+</resources>
