@@ -14,10 +14,18 @@ El proyecto esta compuesto por 3 modulos:
 - Lista de personajes
 - Perfil de personaje
 
-![Alt text](Screenshot_1.jpg "Splash screen")
+<div align="center">
+    <img src="/Screenshot_1.jpg" width="400px"</img> 
+</div>
 
-![Alt text](Screenshot_2.jpg "Lista de personajes")
+<div align="center">
+    <img src="/Screenshot_2.jpg" width="400px"</img> 
+</div>
 
-![Alt text](Screenshot_3.jpg "Perfil de personaje")
+<div align="center">
+    <img src="/Screenshot_3.jpg" width="400px"</img> 
+</div>
+
+
 
 NOTA: Al tener que usar el API de Marvel (No fue posible obtener el token en  https://superheroapi.com) la información mostrada en el perfil del personaje vario debido a la respuesta del endpoint.
